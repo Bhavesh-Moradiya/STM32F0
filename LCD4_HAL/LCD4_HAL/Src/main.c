@@ -13,7 +13,7 @@ int main(void)
 
   while (1)
   {
-    lcd(h,1 ,2);
+    lcd("STM32F051",1 ,2);
   }
 }
 
